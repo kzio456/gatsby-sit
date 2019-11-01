@@ -5,10 +5,13 @@ description: "Biodata"
 ---
 
 Nama : Shicko reze taebenu
-Pendidikan : SD (advent XV ciracas)
-SMP (sama kayak sd)
-SMA(sama kayak SMP)
-Berkuliah ( UNAI)
+
+Pendidikan : 
+
+>SD (advent XV ciracas)
+>SMP (sama kayak sd)
+>SMA(sama kayak SMP)
+>Berkuliah ( UNAI)
 
 Hobi : main game,basket,Dan renang
 
